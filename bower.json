@@ -1,0 +1,25 @@
+{
+  "name": "angproject",
+  "authors": [
+    "Victor Ngeno <ngenovictor321@gmail.com>"
+  ],
+  "description": "My first angular project",
+  "main": "index.html",
+  "keywords": [
+    "Angular",
+    "Moringa"
+  ],
+  "license": "MIT",
+  "homepage": "localhost:3000",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
